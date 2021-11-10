@@ -1,2 +1,3 @@
 # hello-world uuuuuuuuuuh
-Esse é o meu primeiro repositório criado no curso de Desenvolvimento de Software da Cubos Academy - Turma 05
+Esse repositório foi criado para o primeiro exercício no curso de Desenvolvimento de Software da Cubos Academy - Turma 05
+
